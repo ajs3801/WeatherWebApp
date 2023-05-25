@@ -1,0 +1,22 @@
+.information_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  width: 180px;
+  height: 180px;
+  
+  background-color: #E4E5E9;
+
+  border-radius: 20px;
+
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.information_title {
+  margin-top: 0;
+  margin-bottom: 0;
+}

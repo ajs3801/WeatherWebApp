@@ -1,0 +1,37 @@
+.futureTime_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  width: 180px;
+  height: 180px;
+  
+  background-color: #E4E5E9;
+
+  border-radius: 20px;
+
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.futureTime_title {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.futureTime_content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 15px;
+}
+
+.futureTmie_temperature {
+  font-size: 32px;
+}

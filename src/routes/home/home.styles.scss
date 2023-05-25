@@ -1,0 +1,16 @@
+.home_container {
+  display:grid;
+  grid-template-columns: 180px 180px;
+  grid-template-rows: 180px 180px;
+  grid-row: auto auto;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  justify-content: center;
+  width: 420px;
+  height: 100vh;
+
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}

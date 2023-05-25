@@ -1,0 +1,21 @@
+.selectTime_location {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 180px;
+  height: 180px;
+  
+  background-color: #E4E5E9;
+
+  border-radius: 20px;
+  margin: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.selectTime_content {
+  font-size: 20px;
+}
