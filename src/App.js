@@ -9,7 +9,7 @@ export const App = () => {
   return (
     <div className='app_container'>
       <Routes>
-        <Route path='/' element={<Navigation />}>
+        <Route path='/WeatherWebApp' element={<Navigation />}>
           <Route index={true} element={<Home />}/>
         </Route>
       </Routes>
